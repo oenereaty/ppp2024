@@ -1,6 +1,0 @@
-print("사다리꼴 면적 구하기. 정수로 입력하세요.")
-bottom =  int(input("밑변의 길이를 입력하세요."))
-top = int(input("윗변의 길이를 입력하세요."))
-h =  int(input("높이를 입력하세요."))
-S = (bottom + top) * h * (1/2)
-print("윗변이{}, 밑변이 {}, 높이가 {}인 사다리꼴의 면적은 {}입니다.\n".format(bottom, top, h,S))
