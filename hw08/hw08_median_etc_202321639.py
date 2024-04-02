@@ -41,7 +41,7 @@ def text2list(input_text):
 
 
 def main():
-    input_text = input("숫자를 콤마를 이용해 작성하세요:")
+    input_text = input("콤마를 이용해 숫자를 작성하세요:")
     
     nums = text2list(input_text)
     ave = average(nums)
