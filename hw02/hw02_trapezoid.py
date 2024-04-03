@@ -1,0 +1,6 @@
+print("사다리꼴 면적 구하기")
+long =  int(5)
+short =  int(3)
+h =  int(4)
+S = (long + short) * h * (1/2)
+print("윗변이{}, 밑변이 {}, 높이가 {}인 사다리꼴의 면적은 {}입니다.".format(short, long, h,S))
