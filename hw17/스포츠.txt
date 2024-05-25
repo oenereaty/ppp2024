@@ -1,0 +1,1 @@
+soccer, basketball, tennis, volleyball, baseball, golf, swimming, taekwondo, boxing, skiing, snowboarding, archery, badminton, cycling, skating.
